@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Amazfit Bip U Pro", "price": 4999999 },
+  { "id": 2, "name": "Samsung Galaxy Watch 6", "price": 18999 },
+  { "id": 3, "name": "Apple Watch SE (2nd Gen)", "price": 28999 },
+  { "id": 4, "name": "Noise ColorFit Ultra 3", "price": 3499 },
+  { "id": 5, "name": "boAt Xtend Pro", "price": 2999 }
+]
