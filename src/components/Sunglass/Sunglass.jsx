@@ -1,5 +1,5 @@
 import React from 'react';
-import add, { mul } from '../../Utils/Calculate';
+import add, { div, mul } from '../../Utils/Calculate';
 
 const Sunglass = () => {
 
@@ -7,11 +7,12 @@ const Sunglass = () => {
     const second = 89;
     const sum = add(first, second)
     const multi = mul(first, second);
-    console.log(sum, multi)
+    const div = div(first, second)
+    console.log(sum, multi, div)
 
     return (
         <div>
-            
+            <h2>Sunglass Details.</h2>
         </div>
     );
 };

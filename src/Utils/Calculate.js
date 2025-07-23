@@ -4,5 +4,9 @@ const add = (first, second) => {
 
 const mul = (first, second) => {
     return first * second;
-    }
-export  {add,mul};
+}
+    
+const div = ( first, second ) => {
+    return first / second;
+}
+export  {add,mul,div};

@@ -8,6 +8,7 @@ const Watch = ({ watch }) => {
             <small>Id: { id}</small>
             <p>Name:{name}</p>
             <small>Price:{price}</small>
+            
         </div>
     );
 };
